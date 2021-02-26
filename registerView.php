@@ -14,6 +14,7 @@
 <div class = "row">
 <?php
     require_once('html/page/register.php');
+    require_once('html/aside.php');
 ?>
 </div>
 <?php
