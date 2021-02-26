@@ -25,7 +25,6 @@
   </section>
 </main>
 <?php
-session_start();
 if(isset($_SESSION['errorMessage'])){
 echo ("<SCRIPT> alert('".$_SESSION['errorMessage']."'); </SCRIPT>");
 unset($_SESSION['errorMessage']);
