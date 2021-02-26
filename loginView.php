@@ -17,6 +17,9 @@
     require_once('html/page/login.php');
 ?>
 </div>
+<?php
+    require_once('html/footer.php');
+?>
 
 </body>
 </html>
