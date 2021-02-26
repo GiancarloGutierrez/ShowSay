@@ -15,6 +15,7 @@
 <div class = "row">
 <?php
     require_once('html/page/login.php');
+    require_once('html/aside.php');
 ?>
 </div>
 <?php
