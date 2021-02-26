@@ -16,6 +16,8 @@
     require_once('html/page/register.php');
 ?>
 </div>
-
+<?php
+    require_once('html/footer.php');
+?>
 </body>
 </html>
